@@ -1,7 +1,7 @@
 # 3-Axis-Gimbal
 
 3 rings that have bearings in each ring that allow dowel pins to go through to connect to the next piece.
-Intended to help with controls for Baby Ikarus.
+Intended to help with controls for Baby Ikarus. Was made during my Digital Metrology internship, but I was told to upload it for documentation.
 
 Mechanical:
 Carbon fiber rods that are cut to about 12 inches each and have printed corner pieces to create a square. Bearings are placed perpendicular to each other on the next ring.
